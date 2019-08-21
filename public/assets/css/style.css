@@ -174,5 +174,9 @@ textarea {
   bottom: 10px;
 }
 
+.navbar-collapse.collapse.in {
+   display: inline-block; 
+  }
+
 
 
